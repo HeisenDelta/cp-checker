@@ -1,0 +1,82 @@
+Kotlin Heroes 5: ICPC Round (Practice)                                            Enter (Codeforces) 
+code: 1432
+start: 22:35 | 05 Nov 2020 (Thu)
+end: 22:35 | 12 Nov 2020 (Thu)
+
+Kotlin Heroes 5: ICPC Round (Codeforces) 
+code: 1431
+author: BledDest, Ne0n25, adedalic, pikmike, vovuh
+start: 23:35 | 12 Nov 2020 (Thu)
+end: 02:05 | 13 Nov 2020 (Fri)
+
+Codeforces Round #682 (Div. 2) (Codeforces) 
+code: 1438
+author: Anti-Light, SleepyShashwat
+start: 23:35 | 13 Nov 2020 (Fri)
+end: 01:35 | 14 Nov 2020 (Sat)
+
+Codeforces Round #683 (Div. 1, by Meet IT) (Codeforces) 
+code: 1446
+author: Devil, Gajowy, Miyukine, Mohamed.Sobhy, _h_, jjaworska, kamilos1089, kobor, pasawicki, pawelek1, staniewzki, tnowak
+start: 23:35 | 15 Nov 2020 (Sun)
+end: 01:35 | 16 Nov 2020 (Mon)
+
+Codeforces Round #683 (Div. 2, by Meet IT) (Codeforces) 
+code: 1447
+author: Devil, Gajowy, Miyukine, Mohamed.Sobhy, _h_, jjaworska, kamilos1089, kobor, pasawicki, pawelek1, staniewzki, tnowak
+start: 23:35 | 15 Nov 2020 (Sun)
+end: 01:35 | 16 Nov 2020 (Mon)
+
+Codeforces Round #684 (Div. 1) (Codeforces) 
+code: 1439
+author: AliShahali1382, Mehrdad_Sohrabi, Mohammad.H915
+start: 23:35 | 17 Nov 2020 (Tue)
+end: 01:35 | 18 Nov 2020 (Wed)
+
+Codeforces Round #684 (Div. 2) (Codeforces) 
+code: 1440
+author: AliShahali1382, Mehrdad_Sohrabi, Mohammad.H915
+start: 23:35 | 17 Nov 2020 (Tue)
+end: 01:35 | 18 Nov 2020 (Wed)
+
+Codeforces Round #685 (Div. 2) (Codeforces) 
+code: 1451
+start: 23:35 | 21 Nov 2020 (Sat)
+end: 01:35 | 22 Nov 2020 (Sun)
+
+Technocup 2021 - Elimination Round 2 (Codeforces) 
+code: 1415
+start: 16:05 | 29 Nov 2020 (Sun)
+end: 18:05 | 29 Nov 2020 (Sun)
+
+Codeforces Global Round 12 (Codeforces) 
+code: 1450
+author: Devil, Monogon, fivefourthreeone
+start: 23:35 | 06 Dec 2020 (Sun)
+end: 02:35 | 07 Dec 2020 (Mon)
+
+Technocup 2021 - Elimination Round 3 (Codeforces) 
+code: 1411
+start: 00:05 | 21 Dec 2020 (Mon)
+end: 02:05 | 21 Dec 2020 (Mon)
+
+AtCoder Grand Contest 049 (Atcoder) 
+start: 21:00 | 14 Nov 2020 (Sat)
+end: 23:00 | 14 Nov 2020 (Sat)
+
+AtCoder Beginner Contest 183 (Atcoder) 
+start: 21:00 | 15 Nov 2020 (Sun)
+end: 23:00 | 15 Nov 2020 (Sun)
+
+AtCoder Regular Contest 108 (Atcoder) 
+start: 21:00 | 21 Nov 2020 (Sat)
+end: 23:00 | 21 Nov 2020 (Sat)
+
+AtCoder Regular Contest 109 (Atcoder) 
+start: 21:00 | 28 Nov 2020 (Sat)
+end: 23:00 | 28 Nov 2020 (Sat)
+
+Hitachi Hokudai Lab. & Hokkaido University Contest 2020 (Atcoder) 
+start: 00:00 | 01 Dec 2020 (Tue)
+end: 02:00 | 01 Dec 2020 (Tue)
+
